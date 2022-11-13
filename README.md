@@ -5,3 +5,6 @@ Installation of the ChainSafe gaming SDK. Import an NFT from ChainSafe Marketpla
 # Installation
 Drag and Drop the unitypackage into a new unity project.
 
+Video Tutorial
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KVUYfBA8MVs/0.jpg)](https://www.youtube.com/watch?v=KVUYfBA8MVs)
