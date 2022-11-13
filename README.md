@@ -7,4 +7,4 @@ Drag and Drop the unitypackage into a new unity project.
 
 Video Tutorial
 
-(https://img.youtube.com/vi/KVUYfBA8MVs/0.jpg)](https://www.youtube.com/watch?v=KVUYfBA8MVs)
+[(https://img.youtube.com/vi/KVUYfBA8MVs/0.jpg)](https://www.youtube.com/watch?v=KVUYfBA8MVs)](https://img.youtube.com/vi/KVUYfBA8MVs/0.jpg)
